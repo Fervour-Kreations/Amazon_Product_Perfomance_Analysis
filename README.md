@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-Project carried out on Amazon and Palmora Group to analyse the products improvement based on consumer reviews and to analyse HR data respectively in order to help management come up with data driven insights and informed stategies and decisions
+This project was carried out on Amazon and Palmora Group to analyse the products improvement based on consumer reviews and to analyse HR data respectively in order to help management come up with data driven insights and informed stategies and decisions
 
 ## Case Study One - Amazon Product Review Analysis
 
@@ -50,3 +50,47 @@ EDA involved exploring the sales data to answer key question, such as;
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+### Data Analysis
+
+Includes some interesting pivot tables worked with
+
+- Average discount percentage by category
+
+![image](https://github.com/user-attachments/assets/375abfb2-ed3b-4320-8f0a-66937084c2ee)
+
+
+- No of  product with discount of 50% or more	
+		
+![image](https://github.com/user-attachments/assets/83f04894-4572-4a6b-8613-c754e46a55fd)
+
+
+
+- Estimated Revenue by each category	
+
+![image](https://github.com/user-attachments/assets/eb35473a-db85-493f-8016-f3bcda1502ea)
+
+
+- No of unique products per price range bucket 	
+
+![image](https://github.com/user-attachments/assets/ee03c019-7f70-4c34-b1d1-4829d2cf4d95)
+
+
+- Top 5 product in terms of rating and reviews combined	
+
+![image](https://github.com/user-attachments/assets/ba93e1cd-c0d9-4c5c-8e27-62cce3513094)
+
+
+- No of products rated 3.0 and above	
+	
+![image](https://github.com/user-attachments/assets/56f22e9e-5b2a-4355-9d7a-043d1aeb47c7)
+
+
+- Top 10 products with the highest average ratings	
+
+
+![image](https://github.com/user-attachments/assets/db5cafcf-4a4a-459e-9c3c-5cbe348db5e1)
+
+- Average actual price vs Average discounted price by Product Category		
+
+![image](https://github.com/user-attachments/assets/e1d8883e-044b-4766-812d-8657fa5ffa1c)
