@@ -94,12 +94,17 @@ Includes some interesting pivot tables and dashboards worked with
 	
 ![image](https://github.com/user-attachments/assets/56f22e9e-5b2a-4355-9d7a-043d1aeb47c7)
 
+![image](https://github.com/user-attachments/assets/732f3b78-755f-47e4-83c0-7f8d0d4d59e6)
+
 
 - Top 10 products with the highest average ratings	
 
-
 ![image](https://github.com/user-attachments/assets/db5cafcf-4a4a-459e-9c3c-5cbe348db5e1)
+
 
 - Average actual price vs Average discounted price by Product Category		
 
 ![image](https://github.com/user-attachments/assets/e1d8883e-044b-4766-812d-8657fa5ffa1c)
+
+![image](https://github.com/user-attachments/assets/2de4d5e0-f551-469a-b430-9be52f40d0a6)
+
