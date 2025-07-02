@@ -7,6 +7,6 @@ Project carried out on Amazon and Palmora Group to analyse the products improvem
 
 
 
-### CASE STUDY ONE 
+## CASE STUDY ONE 
 
-## TOPIC - AMAZON PRODUCT REVIEW ANALYSIS
+### TOPIC - AMAZON PRODUCT REVIEW ANALYSIS
