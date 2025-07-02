@@ -53,32 +53,41 @@ EDA involved exploring the sales data to answer key question, such as;
 
 ### Data Analysis
 
-Includes some interesting pivot tables worked with
+Includes some interesting pivot tables and dashboards worked with
 
 - Average discount percentage by category
 
 ![image](https://github.com/user-attachments/assets/375abfb2-ed3b-4320-8f0a-66937084c2ee)
+
+![image](https://github.com/user-attachments/assets/ff0fb4f3-1429-463b-9a80-c3b1c9ef3c16)
 
 
 - No of  product with discount of 50% or more	
 		
 ![image](https://github.com/user-attachments/assets/83f04894-4572-4a6b-8613-c754e46a55fd)
 
+![image](https://github.com/user-attachments/assets/1d8297f5-bfa7-46d7-8cd9-4a2eb430804a)
 
 
 - Estimated Revenue by each category	
 
 ![image](https://github.com/user-attachments/assets/eb35473a-db85-493f-8016-f3bcda1502ea)
 
+![image](https://github.com/user-attachments/assets/20fcfe94-c874-4756-8f29-7c2fae97b9bc)
+
 
 - No of unique products per price range bucket 	
 
 ![image](https://github.com/user-attachments/assets/ee03c019-7f70-4c34-b1d1-4829d2cf4d95)
 
+![image](https://github.com/user-attachments/assets/8507b1f8-99b0-4aa9-aeb8-8faf43e585d8)
+
 
 - Top 5 product in terms of rating and reviews combined	
 
 ![image](https://github.com/user-attachments/assets/ba93e1cd-c0d9-4c5c-8e27-62cce3513094)
+
+![image](https://github.com/user-attachments/assets/9c774c8b-d3db-49dc-b9ef-a9261e99fd9f)
 
 
 - No of products rated 3.0 and above	
