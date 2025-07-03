@@ -1,12 +1,6 @@
-# DSA DATA ANALYTICS PROJECT
+# Case Study One - Amazon Product Review Analysis
 
 ### Project Overview
-
-This project was carried out on Amazon and Kultra Mega Stores Inventory to analyse the products improvement based on consumer reviews and advice the company management respectively in order to help management come up with data driven insights and informed stategies and decisions
-
-## Case Study One - Amazon Product Review Analysis
-
-### Product Overview
 
 This data analysis project aim to provide insights into the product performance of Amazon Company based on consumers reviews and ratings. By analyzing various aspects of products and consumer review data, we seek to generate insights that can guide product improvement, marketig strategies, and customer engagement.
 
