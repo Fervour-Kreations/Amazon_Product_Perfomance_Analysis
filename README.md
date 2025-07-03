@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project was carried out on Amazon and Palmora Group to analyse the products improvement based on consumer reviews and to analyse HR data respectively in order to help management come up with data driven insights and informed stategies and decisions
+This project was carried out on Amazon and Kultra Mega Stores Inventory to analyse the products improvement based on consumer reviews and advice the company management respectively in order to help management come up with data driven insights and informed stategies and decisions
 
 ## Case Study One - Amazon Product Review Analysis
 
@@ -107,4 +107,36 @@ Includes some interesting pivot tables and dashboards worked with
 ![image](https://github.com/user-attachments/assets/e1d8883e-044b-4766-812d-8657fa5ffa1c)
 
 ![image](https://github.com/user-attachments/assets/2de4d5e0-f551-469a-b430-9be52f40d0a6)
+
+## **Summary of Findings**
+
+The analysis of Amazon’s product data and customer reviews revealed several valuable insights:
+
+* **Discount Trends**: Certain product categories offer higher average discounts, with a significant number of products having discounts of 50% or more.
+* **Product Ratings**: A majority of products are rated above 3.0, indicating overall customer satisfaction. However, the top-rated products tend to have both high ratings and high review counts, showing consistent quality and customer trust.
+* **Product Categories**: Some categories contain significantly more products and reviews, suggesting higher consumer demand or broader product variety.
+* **Revenue Potential**: Estimated potential revenue (actual price × rating count) varied across categories, with some showing stronger performance, likely due to a combination of pricing strategy and popularity.
+* **Pricing Insights**: Products are distributed across various price ranges, but more products fall into the ₹200–₹500 range. There’s also a notable variation between actual and discounted prices.
+* **Customer Engagement**: The most engaging products (in terms of number of reviews) also tend to be among the top-rated, indicating strong customer interaction and loyalty.
+* **Discount vs Rating**: No direct correlation was observed between the level of discount and customer rating, suggesting that quality may not always be dependent on price reduction.
+
+---
+
+## **Recommendations**
+
+Based on the analysis, the following actions are recommended:
+
+1. **Focus on High-Performing Categories**: Invest more in categories showing high potential revenue and high customer engagement to maximize return on investment.
+2. **Promote Top Products**: Highlight top-rated products with high review counts in marketing campaigns to attract new customers through social proof.
+3. **Review Underperforming Products**: Identify and evaluate products with low ratings and few reviews to either improve or phase them out.
+4. **Optimize Discount Strategy**: Ensure discounts are targeted effectively. Consider offering promotions on high-margin items to retain profitability.
+5. **Enhance Product Presentation**: Improve product descriptions, images, and titles, especially for those with fewer reviews, to boost customer trust and engagement.
+6. **Use Reviews for Product Development**: Continuously mine customer feedback to refine products and tailor offerings to consumer expectations.
+
+---
+
+## **Conclusion**
+
+This analysis provides a clear overview of product performance on Amazon based on customer ratings, reviews, and pricing strategies. By leveraging these insights, management can make data-driven decisions to refine their marketing approaches, improve product quality, and enhance customer satisfaction. Ultimately, focusing on high-performing products and optimizing pricing strategies will help drive sales growth, improve customer trust, and strengthen the company’s competitive position in the online marketplace.
+
 
