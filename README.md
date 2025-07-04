@@ -93,7 +93,7 @@ Some Highlights include
 
 ## 🔍 Summary of Findings
 
-![image](https://github.com/user-attachments/assets/6dbd8137-05f7-452b-8858-3958936b720f)
+![image](https://github.com/user-attachments/assets/ba161cd1-2e9b-43fa-8f25-5eca84c465bc)
 
 Key insights include:
 
