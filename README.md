@@ -104,6 +104,7 @@ Includes some interesting pivot tables and dashboards worked with
 
 ## **Summary of Findings**
 
+![image](https://github.com/user-attachments/assets/4fb4fc86-df5a-4232-bede-4e042c0f8511)
 
 
 The analysis of Amazon’s product data and customer reviews revealed several valuable insights:
