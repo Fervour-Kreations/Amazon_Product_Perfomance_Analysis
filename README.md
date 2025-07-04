@@ -104,6 +104,8 @@ Includes some interesting pivot tables and dashboards worked with
 
 ## **Summary of Findings**
 
+
+
 The analysis of Amazon’s product data and customer reviews revealed several valuable insights:
 
 * **Discount Trends**: Certain product categories offer higher average discounts, with a significant number of products having discounts of 50% or more.
